@@ -10,3 +10,5 @@ If you use DASSH in your research, please consider citing the following conferen
 
 ## Acknowledgements
 The authors would like to acknowledge Dr. Ling Zou (ANL), Dr. Nicolas Martin (INL), and Dr. Dillon Shaver (ANL) for their careful reviews and helpful feedback on DASSH documentation.
+
+These documents have been created by UChicago Argonne, LLC, Operator of Argonne National Laboratory (“Argonne”). Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Nuclear Energy under contract DE-AC02-06CH11357. The work reported in these documents is the result of ongoing efforts supporting the Versatile Test Reactor.
