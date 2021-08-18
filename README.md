@@ -8,6 +8,9 @@ If you use DASSH in your research, please consider citing the following conferen
 * Milos Atz, Micheal A. Smith, Florent Heidet, "Ducted Assembly Steady State Heat Transfer Software (DASSH) - Theory Manual", ANL/NSE-21/33, Argonne National Laboratory, 2021.
 * Milos Atz, Micheal A. Smith, Florent Heidet, "Ducted Assembly Steady State Heat Transfer Software (DASSH) - User Guide", ANL/NSE-21/34, Argonne National Laboratory, 2021.
 
+## Reporting errors
+If you notice errors in the DASSH documentation, please notify the authors by either opening an issue on GitHub or by sending an email to `matz[at]anl[dot]gov`.
+
 ## Acknowledgements
 The authors would like to acknowledge Dr. Ling Zou (ANL), Dr. Nicolas Martin (INL), and Dr. Dillon Shaver (ANL) for their careful reviews and helpful feedback on DASSH documentation.
 
