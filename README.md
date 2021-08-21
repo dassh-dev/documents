@@ -5,8 +5,8 @@ This repository contains the public documentation for DASSH, which currently inc
 If you use DASSH in your research, please consider citing the following conference paper, the theory manual, or the user guide.
 
 * Milos Atz, Micheal A. Smith, Florent Heidet. “DASSH software for ducted assembly thermal hydraulics calculations – overview and benchmark”. Transactions of the American Nuclear Society 123 pp. 1673-1676 (2020). [URL](https://www.ans.org/pubs/transactions/article-49036/).
-* Milos Atz, Micheal A. Smith, Florent Heidet, "Ducted Assembly Steady State Heat Transfer Software (DASSH) - Theory Manual", ANL/NSE-21/33, Argonne National Laboratory, 2021.
-* Milos Atz, Micheal A. Smith, Florent Heidet, "Ducted Assembly Steady State Heat Transfer Software (DASSH) - User Guide", ANL/NSE-21/34, Argonne National Laboratory, 2021.
+* Milos Atz, Micheal A. Smith, Florent Heidet, "Ducted Assembly Steady State Heat Transfer Software (DASSH) - Theory Manual", ANL/NSE-21/33, Argonne National Laboratory, 2021. [URL](https://www.osti.gov/biblio/1813446-ducted-assembly-steady-state-heat-transfer-software-dassh-theory-manual).
+* Milos Atz, Micheal A. Smith, Florent Heidet, "Ducted Assembly Steady State Heat Transfer Software (DASSH) - User Guide", ANL/NSE-21/34, Argonne National Laboratory, 2021. [URL](https://www.osti.gov/biblio/1812216-ducted-assembly-steady-state-heat-transfer-software-dassh-user-guide).
 
 ## Reporting errors
 If you notice errors in the DASSH documentation, please notify the authors by either opening an issue on GitHub or by sending an email to `matz[at]anl[dot]gov`.
